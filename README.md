@@ -51,10 +51,7 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/deepakbhamla?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/deepakbhamla?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
+   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/deepakbhamla?style=flat-square&color=black&logo=github">
   </a>
 </p>

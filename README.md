@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/deepakbhamla)
 [![Website Badge](https://img.shields.io/badge/Website-333333?style=flat-square&logo=google-chrome&logoColor=white)](https://deepakbhamla.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-333333?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deepakbhamla)
@@ -10,8 +10,8 @@
 ### Tech Stack 🛠 &nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=ffffff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript&Color=ffffff)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&Color=ffffff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript&logoColor=ffffff)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=ffffff)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=ffffff)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=ffffff)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat-square&logo=django&logoColor=ffffff)&nbsp;
@@ -36,7 +36,7 @@
 </a>
 <a href="https://github.com/deepakbhamla/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deepakbhamla&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" />
+  <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deepakbhamla&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=000000&icon_color=757575&bg_color=ffffff" />
 </a>
 
 

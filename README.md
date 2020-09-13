@@ -40,18 +40,20 @@
 </a>
 
 ###  Account stat
-
-
+<p>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/deepakbhamla/deepakbhamla?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/deepakbhamla?style=flat-square&color=black&logo=github">
   </a>
+  
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/deepakbhamla?style=flat-square&color=black&logo=github">
   </a>
    <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/deepakbhamla?style=flat-square&color=black&logo=github">
   </a>
+  [![](https://gitwar.herokuapp.com/badge?username=deepakbhamla&label=Gitwar%20Profile%20Score&style=for-the-badge&color=000000)](https://gitwar.herokuapp.com/)
+
 </p>

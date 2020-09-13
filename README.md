@@ -39,7 +39,6 @@
   <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deepakbhamla&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=000000&icon_color=757575&bg_color=ffffff" />
 </a>
 
-###  Account stat
 <p>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/deepakbhamla/deepakbhamla?style=flat-square&color=black&logo=github">
@@ -54,6 +53,4 @@
    <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/deepakbhamla?style=flat-square&color=black&logo=github">
   </a>
-  [![](https://gitwar.herokuapp.com/badge?username=deepakbhamla&label=Gitwar%20Profile%20Score&style=for-the-badge&color=000000)](https://gitwar.herokuapp.com/)
-
-</p>
+  </p>

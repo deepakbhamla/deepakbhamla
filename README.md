@@ -38,7 +38,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deepakbhamla&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=000000&icon_color=757575&bg_color=ffffff" />
 </a>
-<br/>
+
+###  Profile Stats &#x1f4c8;
+
 <p>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/deepakbhamla/deepakbhamla?style=flat-square&color=black&logo=github">

@@ -9,13 +9,12 @@
 
 ### Tech Stack 🛠 &nbsp;
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=pythonlogo&Color=ffffff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&Color=ffffff)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=pythonlogo&Color=ffffff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-squaare&logo=javascript&Color=ffffff)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat-squaare&logo=java&Color=ffffff)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=ffffff)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=ffffff)&nbsp;
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=ffffff)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\

@@ -19,11 +19,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=ffffff)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=ffffff)\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git&logoColor=ffffff)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=ffffff)\
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows&logoColor=ffffff)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat-square&logo=atom&logoColor=ffffff)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=ffffff)\
 ![Aws](https://img.shields.io/badge/-Aws-333333?style=flat-square&logo=aws&logoColor=ffffff)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)&nbsp;
 
 ###  GitHub Stats &#x1f4c8;
 

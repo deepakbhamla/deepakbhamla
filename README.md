@@ -1,5 +1,10 @@
 ### Hi there 👋
-##### This is Deepak Singh Bhamla a Fullstack Developer Software Developer and Beginner In Data Science I like to play with code and have a Problem solving approach I know several programming language as well technologies
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/deepakbhamla)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://deepakbhamla.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deepakbhamla)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/deepak_bhamla/)
+
+#### This is Deepak Singh Bhamla a Fullstack Developer Software Developer and Beginner In Data Science I like to play with code and have a Problem solving approach I know several programming language as well technologies
 
 
 ## &#x1f4c8; GitHub Stats

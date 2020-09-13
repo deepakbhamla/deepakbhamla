@@ -34,12 +34,12 @@
 ###  GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/deepakbhamla/deepakbhamla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakbhamla&show_icons=true&line_height=27&count_private=true&title_color=757575&text_color=c9cacc&icon_color=757575&bg_color=ffffff" alt="Deepak Bhamla GitHub Stats" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=deepakbhamla&show_icons=true&line_height=27&count_private=true&title_color=757575&text_color=c9cacc&icon_color=757575&bg_color=ffffff" alt="Deepak Bhamla GitHub Stats" />
 </a>
 
 
 <a href="https://github.com/deepakbhamla/deepakbhamla">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakbhamla&hide=java,html,php&title_color=757575&text_color=c9cacc&icon_color=757575&bg_color=ffffff" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakbhamla&hide=java,php&line_height=27&title_color=757575&text_color=c9cacc&icon_color=757575&bg_color=ffffff" />
 </a>
 
 

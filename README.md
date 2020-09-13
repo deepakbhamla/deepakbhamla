@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-757575?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/deepakbhamla)
 [![Website Badge](https://img.shields.io/badge/Website-757575?style=flat-square&logo=google-chrome&logoColor=white)](https://deepakbhamla.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-757575?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/deepakbhamla)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-757575?style=flat-square&logo=Facebook&logoColor=white)](https://fb.me/iamdeepakbhamla)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-757575?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/deepak_bhamla/)
 
 ##### This is Deepak Singh Bhamla a Fullstack Developer Software Developer and Beginner In Data Science I like to play with code and have a Problem solving approach I know several programming language as well technologies

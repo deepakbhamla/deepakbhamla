@@ -30,15 +30,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman&logoColor=ffffff)&nbsp;
 
 ###  GitHub Stats &#x1f4c8;
-
-<a href="https://github.com/deepakbhamla/deepakbhamla">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=deepakbhamla&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" alt="Deepak Bhamla GitHub Stats" />
-</a>
-<a href="https://github.com/deepakbhamla/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deepakbhamla&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=000000&icon_color=757575&bg_color=ffffff" />
-</a>
-
+<br/>
 <p>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/deepakbhamla/deepakbhamla?style=flat-square&color=black&logo=github">
@@ -54,3 +46,13 @@
     <img src="https://badges.pufler.dev/commits/monthly/deepakbhamla?style=flat-square&color=black&logo=github">
   </a>
   </p>
+<br/>
+
+<a href="https://github.com/deepakbhamla/deepakbhamla">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=deepakbhamla&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" alt="Deepak Bhamla GitHub Stats" />
+</a>
+<a href="https://github.com/deepakbhamla/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deepakbhamla&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=000000&icon_color=757575&bg_color=ffffff" />
+</a>
+

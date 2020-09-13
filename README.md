@@ -9,7 +9,7 @@
 
 ### Tech Stack 🛠 &nbsp;
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=pythonlogo&logoColor=ffffff)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=ffffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript&Color=ffffff)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&Color=ffffff)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=ffffff)\
@@ -23,6 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat-square&logo=atom&logoColor=ffffff)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=ffffff)\
+![Aws](https://img.shields.io/badge/-Aws-333333?style=flat-square&logo=aws&logoColor=ffffff)&nbsp;
 
 ###  GitHub Stats &#x1f4c8;
 

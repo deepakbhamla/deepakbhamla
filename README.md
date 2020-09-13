@@ -8,8 +8,8 @@
 
 ### Tech Stack 🛠 &nbsp;
 
-![Python](https://img.shields.io/badge/-Python-757575?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-757575?style=flat&logo=Java&logoColor=333333)&nbsp;
+![Python](https://img.shields.io/badge/-Python-757575?style=flat&logo=pythonlogoColor=ffffff)&nbsp;
+![Java](https://img.shields.io/badge/-Java-757575?style=flat&logo=Java&logoColor=ffffff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;

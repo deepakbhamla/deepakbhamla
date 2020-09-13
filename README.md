@@ -39,6 +39,11 @@
   <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deepakbhamla&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=000000&icon_color=757575&bg_color=ffffff" />
 </a>
 
+###  Account stat
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1149-black)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-black)
 
 
 

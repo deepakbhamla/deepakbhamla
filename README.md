@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git&logoColor=ffffff)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat-square&logo=github&logoColor=ffffff)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows&logoColor=ffffff)&nbsp;
-![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=chrome&logoColor=ffffff)\
+![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome&logoColor=ffffff)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat-square&logo=atom&logoColor=ffffff)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=ffffff)\

@@ -41,10 +41,20 @@
 
 ###  Account stat
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1149-black)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-black)
-
-
-
-
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/deepakbhamla/deepakbhamla?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/deepakbhamla?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/deepakbhamla?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/gists/deepakbhamla?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/commits/monthly/deepakbhamla?style=flat-square&color=black&logo=github">
+  </a>
+</p>

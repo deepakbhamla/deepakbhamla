@@ -39,7 +39,7 @@
 
 
 <a href="https://github.com/deepakbhamla/deepakbhamla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakbhamla&title_color=757575&text_color=c9cacc&icon_color=757575&bg_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakbhamla&hide=java,html&title_color=757575&text_color=c9cacc&icon_color=757575&bg_color=ffffff" />
 </a>
 
 

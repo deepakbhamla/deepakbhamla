@@ -25,7 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat-square&logo=atom&logoColor=ffffff)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=ffffff)\
-![Aws](https://img.shields.io/badge/-Aws-333333?style=flat-square&logo=aws&logoColor=ffffff)&nbsp;
+![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-333333?style=flat-square&logo=amazon-web-service&logoColor=ffffff)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)\
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman&logoColor=ffffff)&nbsp;
 

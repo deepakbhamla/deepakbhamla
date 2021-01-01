@@ -22,6 +22,7 @@
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat-square&logo=github&logoColor=ffffff)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat-square&logo=bitbucket&logoColor=ffffff)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows&logoColor=ffffff)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu&logoColor=ffffff)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome&logoColor=ffffff)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat-square&logo=atom&logoColor=ffffff)&nbsp;

@@ -30,6 +30,7 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=ffffff)\
 ![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-333333?style=flat-square&logo=amazon-web-service&logoColor=ffffff)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)\
+![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat-square&logo=postgresql&logoColor=ffffff)\
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman&logoColor=ffffff)&nbsp;
 
 ###  GitHub Stats &#x1f4c8;

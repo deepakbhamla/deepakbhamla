@@ -5,7 +5,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-333333?style=flat-square&logo=Facebook&logoColor=white)](https://fb.me/iamdeepakbhamla)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/deepak_bhamla/)
 
-##### This is Deepak Singh Bhamla a Fullstack Developer Software Developer and Beginner In Data Science I like to play with code and have a Problem solving approach I know several programming language as well technologies
+##### This is Deepak Singh Bhamla a Fullstack Developer Software Developer and Beginner In Data Science. I like to play with code and have a Problem solving approach I know several programming language as well technologies.
 
 ### Tech Stack 🛠 &nbsp;
 

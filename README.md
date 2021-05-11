@@ -16,7 +16,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=ffffff)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=ffffff)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=ffffff)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat-square&logo=vue&logoColor=ffffff)&nbsp;
+![Vuejs](https://img.shields.io/badge/-Vuejs-333333?style=flat-square&logo=vuejs&logoColor=ffffff)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat-square&logo=django&logoColor=ffffff)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5&logoColor=ffffff)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=ffffff)&nbsp;
